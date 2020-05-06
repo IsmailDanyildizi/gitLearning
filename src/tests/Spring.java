@@ -1,6 +1,6 @@
 package tests;
 
-public class Sprint {
+public class Spring {
     public static void main(String[] args) {
         System.out.println("new one");
     }
